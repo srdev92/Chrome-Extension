@@ -1,4 +1,3 @@
-/*
 // const article = document.querySelector("article");
 const article = document.querySelector("body");
 
@@ -24,9 +23,3 @@ if (article) {
 
     (date ?? heading).insertAdjacentElement("afterend", badge);
 }
-*/
-
-async function fetchData() {
-    console.log(0.2 + 0.1);
-}
-fetchData();
